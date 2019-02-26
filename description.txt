@@ -1,0 +1,7 @@
+A hybrid pattern based branch predictor implemented in the SimpleScalar Simulator.
+
+SimpleScalar source: http://www.simplescalar.com/
+
+Only changed ss3_1/bpred.c to include the pattern based hybrid predictor.
+
+Created script.c to run simulator with specified benchmarks, and choice of branch predictor
